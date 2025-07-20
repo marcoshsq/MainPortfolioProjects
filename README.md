@@ -25,10 +25,7 @@ I'm a BI Analyst at DGMax, with experience in performance marketing, mobile camp
   
 | Project | Description | Tools |
 |--------|-----------|-------------|
-| [placeholder](--) | Work in progress... | -- |
-| [placeholder](--) | Work in progress... | -- |
-| [placeholder](--) | Work in progress... | -- |
-| [placeholder](--) | Work in progress... | -- |
-| [placeholder](--) | Work in progress... | -- |
+| [Digital Marketing Analytics & Business Intelligence (BI) Program](https://github.com/marcoshsq/Marketing_Analytics_Roadmap) | Self-taught roadmap I designed and followed to master digital marketing, analytics, and business intelligence. Structured with over 1,000 hours of curated free content, certified courses, clear learning goals, and hands-on applications. Demonstrates my ability to learn independently and build knowledge in a strategic, disciplined way. | GitHub, Markdown, Coursera, Power BI, SQL, Looker Studio, GA4 |
+
 
 ---
