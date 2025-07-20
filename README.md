@@ -1,4 +1,4 @@
-<h2 align="center"> Marcos Henrique - Professional Portfolio </h2>
+<h2 align="center"> Professional Portfolio </h2>
 
 ---
 
