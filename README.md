@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Sobre mim
+## 📌 About me
 
 I'm a BI Analyst at DGMax, with experience in performance marketing, mobile campaign analysis, and fraud prevention. I study statistics and data science and am interested in market intelligence, automation, and data visualization.
 
@@ -23,6 +23,8 @@ I'm a BI Analyst at DGMax, with experience in performance marketing, mobile camp
 
 ## 📂 Featured Projects
 
+<p align="center">
+  
 | Project | Description | Tools |
 |--------|-----------|-------------|
 | [placeholder](--) | Work in progress... | -- |
@@ -30,5 +32,7 @@ I'm a BI Analyst at DGMax, with experience in performance marketing, mobile camp
 | [placeholder](--) | Work in progress... | -- |
 | [placeholder](--) | Work in progress... | -- |
 | [placeholder](--) | Work in progress... | -- |
+
+</p>
 
 ---
