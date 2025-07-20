@@ -22,8 +22,6 @@ I'm a BI Analyst at DGMax, with experience in performance marketing, mobile camp
 ---
 
 ## 📂 Featured Projects
-
-<p align="center">
   
 | Project | Description | Tools |
 |--------|-----------|-------------|
@@ -32,7 +30,5 @@ I'm a BI Analyst at DGMax, with experience in performance marketing, mobile camp
 | [placeholder](--) | Work in progress... | -- |
 | [placeholder](--) | Work in progress... | -- |
 | [placeholder](--) | Work in progress... | -- |
-
-</p>
 
 ---
